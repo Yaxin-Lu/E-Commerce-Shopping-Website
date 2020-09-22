@@ -5,19 +5,19 @@
 
 ### Client-Side:
 
-##### React: to build UI functions.
+##### React: build UI functions.
 
-##### Redux: to expand react functions.
+##### Redux: expand react functions.
 
 ### Server-Side
 
-##### Node.js: to build back-end and payment servers.
+##### Node.js: build back-end and payment servers.
 
 
 ### Cloud-Tools:
 
-##### Firebase: to build google account sign-in function and security rules.
-##### Stripe: to receive payment.
+##### Firebase: build google account sign-in function and security rules.
+##### Stripe: handle payments
 
 ####  <font color='red'>Our application can really accept your money from your REAL-CREDIT-CARD</font>
 
